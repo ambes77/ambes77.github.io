@@ -3,7 +3,7 @@
     <h1>{{ msg }}</h1>
     <h2>
       This is trying auto deployment
-    </p>
+    </h2>
     
     
   </div>
