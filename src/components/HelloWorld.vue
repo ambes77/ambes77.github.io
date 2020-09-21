@@ -1,9 +1,8 @@
 <template>
   <div class="hello">
     <h1>{{ msg }}</h1>
-    <p>
-      this is vue with typescript github page 
-      another update with auto commit
+    <h2>
+      This is trying auto deployment
     </p>
     
     
