@@ -32,7 +32,7 @@
     "src/**/*.tsx",
     "src/**/*.vue",
     "tests/**/*.ts",
-    "tests/**/*.tsx", "src/gh-pages-deploy.js"
+    "tests/**/*.tsx", "gh-pages-deploy.js"
   ],
   "exclude": [
     "node_modules"
